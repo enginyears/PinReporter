@@ -1,0 +1,9 @@
+PinReporter	KEYWORD1
+PR	KEYWORD1
+begin	KEYWORD2
+update	KEYWORD2
+watch	KEYWORD2
+digitalInput	KEYWORD2
+digitalOutput	KEYWORD2
+analogInput	KEYWORD2
+pwm	KEYWORD2
